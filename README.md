@@ -6,6 +6,8 @@
 
 Easily add beautiful holographic text and backgrounds to your HTML elements.
 
+[View Preview Demo](https://bizop.media/plugins/holofx/demo.html)
+
 ## Installation
 
 1.  Download the HoloFX script file `holofx.js` or copy the public cdn:
