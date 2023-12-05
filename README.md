@@ -8,7 +8,10 @@ Easily add beautiful holographic text and backgrounds to your HTML elements.
 
 ## Installation
 
-1.  Download the HoloFX script file `holofx.js` or copy the public cdn link: `<script src="https://cdn.jsdelivr.net/gh/bizop/holofx/holofx.js"></script>`
+1.  Download the HoloFX script file `holofx.js` or copy the public cdn:
+
+`<script src="https://cdn.jsdelivr.net/gh/bizop/holofx/holofx.js"></script>`
+
 2.  Include the `holofx.js` script at the end of your HTML `<body>` section.
 
 ## Usage
