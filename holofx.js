@@ -6,12 +6,12 @@
       background-size: 150%;
       -webkit-text-fill-color: transparent !important;
       -webkit-background-clip: text !important;
-      background-image: url('https://bizop.media/wp-content/uploads/2023/10/holo-3.png') !important;
+      background-image: url('https://cdn.jsdelivr.net/gh/bizop/holofx/holo.png') !important;
     }
 
     .holofx-bg {
       background-size: 200% !important;
-      background-image: url('https://bizop.media/wp-content/uploads/2023/10/holo-3.png') !important;
+      background-image: url('https://cdn.jsdelivr.net/gh/bizop/holofx/holo.png') !important;
     }
   `;
   if (style.styleSheet) {
