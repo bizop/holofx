@@ -2,7 +2,7 @@
 
 <div class="message-receive" contenteditable="true">
 
-# HoloFX
+# HoloFX2
 
 Easily add beautiful holographic text and backgrounds to your HTML elements.
 
